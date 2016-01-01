@@ -1,5 +1,5 @@
 # instagram-unofficial
-The official instagram API only allows POST requests for only specific agencies. This is an unofficial Instagram API that enables likes, posts and comments. The library uses selenium and headless browser to automate the processes.
+The unofficial instagram API only allows POST requests for only specific agencies. This is an unofficial Instagram API that enables likes, posts and comments. The library uses selenium and headless browser to automate the processes.
 
 
 ## Under Construction:
